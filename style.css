@@ -1,16 +1,29 @@
 h1{
-    color: blue
+    color: blue;
+    text-align: center
 }
 
 body{
     background-color: lightgray;
+    text-align: center
 }
 
 img{
     width: 100%;
     max-width: 500px;
+    align-items: center;
+    border-radius: 50%;
 }
 
 h2{
     font-family: cursive;
+}
+
+ol{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+    list-style-position: inside;
 }
